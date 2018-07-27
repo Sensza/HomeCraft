@@ -1,3 +1,0 @@
-/home/tomasz/eclipse-workspace/Task2_Test/CMakeFiles/edit_cache.dir
-/home/tomasz/eclipse-workspace/Task2_Test/CMakeFiles/rebuild_cache.dir
-/home/tomasz/eclipse-workspace/Task2_Test/CMakeFiles/program.dir
