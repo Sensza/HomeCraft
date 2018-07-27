@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tomasz/eclipse-workspace/Task2_Test/UnitTests/Task2_Test.cpp
+iostream
+-
+gtest/gtest.h
+/home/tomasz/eclipse-workspace/Task2_Test/UnitTests/gtest/gtest.h
+../headers/FunctionTask.h
+/home/tomasz/eclipse-workspace/Task2_Test/headers/FunctionTask.h
+
+/home/tomasz/eclipse-workspace/Task2_Test/headers/FunctionTask.h
+iostream
+-
+fstream
+-
+sstream
+-
+string
+-
+
+/home/tomasz/eclipse-workspace/Task2_Test/src/FunctionTask.cpp
+../headers/FunctionTask.h
+/home/tomasz/eclipse-workspace/Task2_Test/headers/FunctionTask.h
+
